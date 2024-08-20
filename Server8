@@ -6,7 +6,7 @@
       "tag": "Warp-IR",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8370:945:62f6:58ce:b2cc/128"
+        "2606:4700:110:8370:945:62f6:58ce:b2cc"
       ],
       "private_key": "8FYVkUoxxxngjXCFf4j3aTiGawovH6owvh7ptlQ2nl4=",
       "server": "188.114.97.191",
@@ -22,7 +22,7 @@
       "detour": "Warp-IR",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:85a5:e3e9:cd0d:8055:6489/128"
+        "2606:4700:110:85a5:e3e9:cd0d:8055:6489"
       ],
       "private_key": "KDkU38LZB5aAR0DopvUKNGnSR7apZfEWx/WhOLi7t2Q=",
       "server": "188.114.97.191",
